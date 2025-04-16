@@ -1,0 +1,89 @@
+frame,class,confidence
+1,0 Phone,99.93
+2,0 Phone,99.96
+3,0 Phone,99.96
+4,0 Phone,99.97
+5,0 Phone,99.96
+6,0 Phone,99.99
+7,0 Phone,99.97
+8,0 Phone,99.99
+9,0 Phone,100.0
+10,0 Phone,99.99
+11,0 Phone,99.99
+12,0 Phone,99.98
+13,0 Phone,99.98
+14,0 Phone,99.97
+15,0 Phone,99.94
+16,0 Phone,99.84
+17,0 Phone,99.89
+18,0 Phone,99.89
+19,0 Phone,99.24
+20,0 Phone,99.78
+21,0 Phone,99.55
+22,0 Phone,98.78
+23,0 Phone,97.38
+24,0 Phone,90.49
+25,0 Phone,94.14
+26,0 Phone,85.35
+27,1 No phone,68.96
+28,1 No phone,94.57
+29,1 No phone,93.04
+30,1 No phone,92.48
+31,1 No phone,94.36
+32,1 No phone,93.36
+33,1 No phone,95.69
+34,1 No phone,95.73
+35,1 No phone,95.93
+36,1 No phone,96.51
+37,1 No phone,96.61
+38,1 No phone,95.49
+39,1 No phone,95.87
+40,1 No phone,96.54
+41,1 No phone,96.75
+42,1 No phone,96.52
+43,1 No phone,96.46
+44,1 No phone,96.92
+45,1 No phone,96.67
+46,1 No phone,97.09
+47,1 No phone,97.53
+48,1 No phone,97.92
+49,1 No phone,98.03
+50,1 No phone,97.92
+51,1 No phone,97.63
+52,1 No phone,97.64
+53,1 No phone,97.7
+54,1 No phone,97.38
+55,1 No phone,96.95
+56,1 No phone,97.09
+57,1 No phone,96.86
+58,1 No phone,96.87
+59,1 No phone,95.71
+60,1 No phone,96.79
+61,1 No phone,95.92
+62,1 No phone,95.51
+63,1 No phone,95.52
+64,1 No phone,97.33
+65,1 No phone,97.3
+66,1 No phone,97.79
+67,1 No phone,97.53
+68,1 No phone,97.29
+69,1 No phone,97.17
+70,1 No phone,97.54
+71,1 No phone,97.17
+72,1 No phone,97.26
+73,1 No phone,97.4
+74,1 No phone,97.11
+75,1 No phone,96.98
+76,1 No phone,97.51
+77,1 No phone,97.12
+78,1 No phone,97.02
+79,1 No phone,96.99
+80,1 No phone,96.85
+81,1 No phone,97.15
+82,1 No phone,96.72
+83,1 No phone,96.61
+84,1 No phone,96.25
+85,1 No phone,96.63
+86,1 No phone,97.22
+87,1 No phone,97.14
+88,1 No phone,97.21
